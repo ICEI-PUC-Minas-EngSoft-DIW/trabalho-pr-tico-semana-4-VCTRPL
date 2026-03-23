@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Victor Reis Silva de Paula
+- Matricula: 911790
+- Proposta de projeto escolhida: Página do artista EsdeeKid e apresentação de músicas e álbuns
+- Breve descrição sobre seu projeto: Meu site visa apresentar o artista gringo EsDeeKid, suas músicas e álbuns mais famosos, de forma a mostrá-lo ao público de maneira mais ampla, para que possam conhecer de fato quem é EsDee.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![foto1](/img/preview.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![foto2](/img/preview2.png)
