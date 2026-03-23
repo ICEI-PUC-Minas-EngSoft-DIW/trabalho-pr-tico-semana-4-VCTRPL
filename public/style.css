@@ -11,17 +11,22 @@ ul {
     text-decoration: none;
     list-style-type: none;
     justify-content: space-between;
+    align-items: center;
+    margin:10%;
 }
 
 a {
     text-decoration: none;
-    color:white
+    color:white;
+
 }
 
 #txtBusca {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    margin-left: 188px;
+    margin-top:5px;
 }
 
 #btnBusca {
@@ -31,4 +36,19 @@ a {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin-top: 5px;
+    align-items:flex-start;
+    gap:40px;
+}
+
+img{
+    display: flex;
+    width: 180px;
+    border-radius:5000px;
+}
+
+.container {
+    display:flex;
+    align-items:flex-start;
+    gap:40px;
 }
