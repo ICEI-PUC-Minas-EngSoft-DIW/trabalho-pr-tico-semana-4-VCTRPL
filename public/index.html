@@ -7,11 +7,25 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Esdee</h1>
-    <header>
-        <div class="home-img">
-            <img src="/img/foto1.png">
-        </div>
+    <div class="sidebar">
+        <button class="nav-btn">Início</button>
+        <button class="nav-btn">Spotify</button>
+        <button class="nav-btn">Melhores</button>
+        <button class="nav-btn">História</button>
+    </div>
+    <div class="conteudo">
+        <header>
+            <div class="home-img">
+                <img src="/img/foto1.png" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="#Início">Início</a></li>
+                    <li><a href="#Artistas">Artistas</a></li>
+                    <li><a href="#Álbuns">Álbuns</a></li>
+                </ul>
+            </nav>
+        </header>
+        
         <section>
             <form action="/pesquisa" method="get">
                 <input type="text" name="busca" placeholder="Pesquisar..." id="txtBusca">
@@ -19,21 +33,8 @@
             </form>
         </section>
         <section>
-            <nav class id="navbar">
-                <ul>
-                    <li><a href=#Início target=>Início</a></li>
-                    <li><a href=#Artistas target=>Artistas</a></li>
-                    <li><a href=#Álbuns target=>Álbuns</a></li>
-                </ul>
-            </nav>
+
         </section>
     </header>
-    <section>
-        <div class="sidebar">
-                <button class="nav-btn">Início</button>
-                <button class="nav-btn">Spotify</button>
-                <button class="nav-btn">Melhores</button>
-                <button class="nav-btn">História</button>
-    </section>
 </body>
 </html>
