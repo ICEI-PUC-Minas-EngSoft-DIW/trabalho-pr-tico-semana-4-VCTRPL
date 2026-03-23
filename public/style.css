@@ -16,7 +16,7 @@ body {
     min-height: 100vh;    
     padding: 12px;
     background: white;
-    border-right: 1px solid #007bff;
+    border-right: 1px solid #000000;
     flex-shrink: 0;       
 }
 
@@ -73,10 +73,11 @@ nav a {
     text-decoration: none;
     color: white;
     font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 nav a:hover {
-    color: #007bff;
+    color: #0048ff;
 }
 
 .pesquisa {
@@ -92,7 +93,7 @@ nav a:hover {
 
 #btnBusca {
     padding: 10px 16px;
-    background-color: #007bff;
+    background-color: #0048ff;
     color: white;
     border: none;
     border-radius: 5px;
